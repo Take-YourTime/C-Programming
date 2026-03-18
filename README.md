@@ -110,3 +110,9 @@ gcc -o output filename.c -lm
 若您是目前正在修習相關課程的同學，建議參考邏輯後自行實作，請勿直接複製貼上以維護學術誠信。  
 
 部分題目與 PDF 說明之著作權歸課程教授所有。  
+  
+The contents of this repository are for personal study and academic exchange only.  
+
+If you are currently taking a related course, it is recommended that you implement the solutions yourself after referring to the logic. Please do not directly copy and paste to maintain academic integrity.  
+
+The copyright of some questions and PDF instructions belongs to the course instructor.  
